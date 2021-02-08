@@ -1,7 +1,7 @@
 def join_nested_strings(src)
   final_string = ""
   row_index = 0 
-  while rowe_index <src.count do
+  while rowe_index < src.count do
     element_index = 0 
     
   # src will be an Array of Arrays of Strings and Integers
